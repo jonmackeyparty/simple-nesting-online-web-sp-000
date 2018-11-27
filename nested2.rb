@@ -1,4 +1,4 @@
-
+require 'pry'
 
 def changing_alan
 	programmer_hash = 
